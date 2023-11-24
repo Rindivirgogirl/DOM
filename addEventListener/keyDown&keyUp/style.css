@@ -1,0 +1,6 @@
+.kotak{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    transition: all 5s;
+}
